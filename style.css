@@ -34,7 +34,7 @@ form {
 :root {
   --htmlFontSize: 100%;
 
-  --bodyBackgroundColor: #61646d;
+  --bodyBackgroundColor: #000;
   --bodyColor: #000;
   --bodyFontFamily: 'Open Sans';
   --bodyFontFamilyFallback: sans-serif;
@@ -165,7 +165,5 @@ div #myTable{
     margin-left: -180px
 }
 
-    Contact GitHub API Training Shop Blog About 
 
-    © 2017 GitHub, Inc. Terms Privacy Security Status Help 
 
